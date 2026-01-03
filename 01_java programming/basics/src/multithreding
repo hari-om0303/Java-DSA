@@ -1,0 +1,14 @@
+🔷 1.what is Multithreading?
+Multithreading means running multiple parts of a program (called threads) at the same time.
+
+👉 A thread is like a lightweight sub-process of a program.
+So instead of doing one thing at a time, a program can do multiple tasks in parallel.
+
+🔷 2. Why Use Multithreading?
+✅ To do multiple tasks at once
+✅ To improve performance and resource utilization
+✅ To make programs faster and more responsive (like UI apps or servers)
+
+✅ Two ways to create a thread:
+🔹 A. By extending the Thread class
+🔹 B. By implementing the Runnable interface
