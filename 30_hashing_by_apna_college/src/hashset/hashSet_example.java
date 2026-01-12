@@ -1,9 +1,9 @@
-package hashmap;
+package hashset;
 
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class hashmap_example {
+public class hashSet_example {
     public static void main(String[] args) {
         HashSet<Integer> set = new HashSet<>();
 //        insertinon
