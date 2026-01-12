@@ -17,7 +17,7 @@ public class hashSet_example {
 
 //        search
         if (set.contains(50)){
-            System.out.println("🥰🥰🥰");
+            System.out.println("element present");
         }
 
 //        delete
